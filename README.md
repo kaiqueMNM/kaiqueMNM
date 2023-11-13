@@ -20,7 +20,7 @@
   <img align="center" alt="Danrlei-bootstrap" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" />
   <img align="center" alt="Danrlei-angular" height="30" width="40" src="https://datascientest.com/en/wp-content/uploads/sites/9/2023/05/django1.jpg" />
    <img align="center" alt="Danrlei-angular" height="30" width="40" src="https://www.bairesdev.com/wp-content/uploads/2021/08/Flask-1.svg" />
-   <img align="center" alt="Danrlei-angular" height="30" width="40" src="[https://www.bairesdev.com/wp-content/uploads/2021/08/Flask-1.svg](https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png)" />
+   <img align="center" alt="Danrlei-angular" height="30" width="40" src="https://i.imgur.com/p0Nufjn.jpg" />
 </div>
 
 ## Softwares favoritos 🤩
