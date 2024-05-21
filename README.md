@@ -1,5 +1,10 @@
 ### Bem-Vindos ao meu Perfil meu nome é Kaique Machado👋
 
+
+<div align="center">
+<img height="320em" src="https://i.pinimg.com/originals/bb/5e/47/bb5e47498772c0628f6dc7f26a6af28c.gif"/>
+</div>
+
 - 🔭 Hoje trabalho como Analista de Suporte N3
 - 🌱 Graduando em CyberSecurity 
 - 😄 Pronomes: ele/dele
